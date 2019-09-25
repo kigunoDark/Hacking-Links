@@ -27,6 +27,10 @@ Workflow
 
 - Use Heroku/Now/GitGub Actions/Bitbucket Pipelines for CI and quick demo workflow
 
+Design inspiration:
+
+- [https://themeforest.net](https://themeforest.net)
+
 Landing Pages:
 
 - [https://klart.io/pixels](https://klart.io/pixels)
